@@ -1,0 +1,26 @@
+.card{
+  padding: 20px;
+  margin: 40px;
+  width: 290px;
+  border-radius: 15px;
+}
+.card-title{
+    text-align: center;
+    color: lightgray;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
+.card-text{
+    text-align: center;
+    font-weight: bold;
+}
+.check{
+    font-weight: bolder;
+}
+.cancel{
+    color: rgb(193, 193, 193);
+}
+.btn{
+    border-radius: 20px;
+}
